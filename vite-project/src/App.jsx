@@ -5,9 +5,9 @@ class App extends Component{
     render(){
         return(
             <>
-            <Wine title="A wine" description="Russian" reting="5"/>
-            <Wine title="B wine" description="American" reting="11"/>
-            <Wine title="C wine" description="Italian" reting="23"/>
+            <Wine title="A wine" description="Russian" rating="5"/>
+            <Wine title="B wine" description="American" rating="11"/>
+            <Wine title="C wine" description="Italian" rating="23"/>
             </>
         )
     }
